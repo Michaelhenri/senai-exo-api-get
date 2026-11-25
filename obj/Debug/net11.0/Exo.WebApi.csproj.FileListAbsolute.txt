@@ -287,3 +287,4 @@ C:\Users\Acer\Documents\CURSO SENAI\Desenvolvimento de API\Exo.WebApi\obj\Debug\
 C:\Users\Acer\Documents\CURSO SENAI\Desenvolvimento de API\Exo.WebApi\obj\Debug\net11.0\Exo.WebApi.pdb
 C:\Users\Acer\Documents\CURSO SENAI\Desenvolvimento de API\Exo.WebApi\obj\Debug\net11.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Acer\Documents\CURSO SENAI\Desenvolvimento de API\Exo.WebApi\obj\Debug\net11.0\ref\Exo.WebApi.dll
+C:\Users\Acer\Documents\CURSO SENAI\Desenvolvimento de API\Exo.WebApi\obj\Debug\net11.0\Exo.WebApi.sourcelink.json
