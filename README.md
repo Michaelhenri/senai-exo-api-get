@@ -1,6 +1,6 @@
 # Exo.WebApi — Listagem de Projetos (`GET /api/projetos`)
 
-API REST desenvolvida em C# / .NET para o projeto **ExoApi** (Atividade 3 — Desenvolvimento de APIs, SENAI), integrada ao **SQL Server** via **Entity Framework Core** para consulta de projetos cadastrados.
+API REST desenvolvida em C# / .NET para o projeto **ExoApi**, integrada ao **SQL Server** via **Entity Framework Core** para consulta de projetos cadastrados.
 
 ## Funcionalidades e Estrutura
 
