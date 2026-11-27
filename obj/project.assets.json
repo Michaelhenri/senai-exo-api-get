@@ -4298,11 +4298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\ExoWebApi\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\ExoWebApi\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\CURSO SENAI\\Desenvolvimento de API\\ExoWebApi\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4832,7 +4832,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2f33-pr97-265q",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-2f33-pr97-265q",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4842,7 +4842,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2x83-8g95-xh59",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-2x83-8g95-xh59",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4852,7 +4852,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4qm4-8hg2-g2xm",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-4qm4-8hg2-g2xm",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4862,7 +4862,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cj9g-3mj2-g8vv",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-cj9g-3mj2-g8vv",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4872,7 +4872,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cxmj-83gh-fp49",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-cxmj-83gh-fp49",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4882,7 +4882,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known high severity vulnerability, https://github.com/advisories/GHSA-hv8m-jj95-wg3x",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-hv8m-jj95-wg3x",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4892,7 +4892,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q2h6-ghwm-5qm8",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-q2h6-ghwm-5qm8",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4902,7 +4902,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qhmf-xw27-6rqr",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qhmf-xw27-6rqr",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4912,7 +4912,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qhrr-8q5h-9q3h",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qhrr-8q5h-9q3h",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4922,7 +4922,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-v72x-2h86-7f8m",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-v72x-2h86-7f8m",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4932,7 +4932,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known high severity vulnerability, https://github.com/advisories/GHSA-vh6j-jc39-fggf",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-vh6j-jc39-fggf",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4942,7 +4942,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-w567-gjr2-hm5j",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-w567-gjr2-hm5j",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4952,7 +4952,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MessagePack' 2.1.152 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wfr3-xj75-pfwh",
+      "message": "O pacote 'MessagePack' 2.1.152 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-wfr3-xj75-pfwh",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net11.0"
@@ -4962,7 +4962,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Build.Tasks.Core' 16.9.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-h4j7-5rxr-p4wc",
+      "message": "O pacote 'Microsoft.Build.Tasks.Core' 16.9.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-h4j7-5rxr-p4wc",
       "libraryId": "Microsoft.Build.Tasks.Core",
       "targetGraphs": [
         "net11.0"
@@ -4972,7 +4972,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "message": "O pacote 'Microsoft.Data.SqlClient' 2.1.4 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "Microsoft.Data.SqlClient",
       "targetGraphs": [
         "net11.0"
@@ -4982,7 +4982,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.10.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "message": "O pacote 'Microsoft.IdentityModel.JsonWebTokens' 6.10.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
       "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
       "targetGraphs": [
         "net11.0"
@@ -4992,7 +4992,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Common' 5.11.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
+      "message": "O pacote 'NuGet.Common' 5.11.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
       "libraryId": "NuGet.Common",
       "targetGraphs": [
         "net11.0"
@@ -5002,7 +5002,7 @@
       "code": "NU1904",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Packaging' 5.11.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-68w7-72jg-6qpp",
+      "message": "O pacote 'NuGet.Packaging' 5.11.0 tem uma crítico vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-68w7-72jg-6qpp",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net11.0"
@@ -5012,7 +5012,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Packaging' 5.11.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "message": "O pacote 'NuGet.Packaging' 5.11.0 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net11.0"
@@ -5022,7 +5022,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Protocol' 5.11.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
+      "message": "O pacote 'NuGet.Protocol' 5.11.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-6qmf-mmc7-6c2p",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net11.0"
@@ -5032,7 +5032,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Protocol' 5.11.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g3q9-xf95-8hp5",
+      "message": "O pacote 'NuGet.Protocol' 5.11.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g3q9-xf95-8hp5",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net11.0"
@@ -5042,7 +5042,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NuGet.Protocol' 5.11.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "message": "O pacote 'NuGet.Protocol' 5.11.0 tem uma baixa vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net11.0"
@@ -5052,7 +5052,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Swashbuckle.AspNetCore.SwaggerUI' 6.2.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qrmm-w75w-3wpx",
+      "message": "O pacote 'Swashbuckle.AspNetCore.SwaggerUI' 6.2.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-qrmm-w75w-3wpx",
       "libraryId": "Swashbuckle.AspNetCore.SwaggerUI",
       "targetGraphs": [
         "net11.0"
@@ -5062,7 +5062,7 @@
       "code": "NU1904",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "message": "O pacote 'System.Drawing.Common' 4.7.0 tem uma crítico vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
       "libraryId": "System.Drawing.Common",
       "targetGraphs": [
         "net11.0"
@@ -5072,7 +5072,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.10.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "message": "O pacote 'System.IdentityModel.Tokens.Jwt' 6.10.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net11.0"
