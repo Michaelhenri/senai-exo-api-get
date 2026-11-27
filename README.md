@@ -4,11 +4,12 @@ API REST desenvolvida em C# / .NET para o projeto **ExoApi**, integrada ao **SQL
 
 ## Funcionalidades e Estrutura
 
-* **`Models/Projeto.cs`**: Define a entidade `Projeto` com as propriedades `Id`, `NomeDoProjeto`, `Area` e `Status`.
-* **`Contexts/ExoContext.cs`**: Configura o `DbContext` (`DbSet<Projeto> Projetos`) e a string de conexão com a instância do SQL Server e o banco `ExoApi`.
-* **`Repositories/ProjetoRepository.cs`**: Implementa o acesso a dados e o método `Listar()` para retornar os registros da tabela `Projetos`.
-* **`Controllers/ProjetosController.cs`**: Expõe o endpoint `GET api/projetos` (`Listar()`) devolvendo os dados em formato JSON.
-* **`Exo.WebApi.csproj`**: Define a estrutura e o `TargetFramework` do projeto para execução no ambiente .NET instalado.
+* **`Models/Projeto.cs`** e **`Models/Usuario.cs`**: Definem as entidades `Projeto` (`Id`, `NomeDoProjeto`, `Area`, `Status`) e `Usuario` (`Id`, `Email`, `Senha`).
+* **`Contexts/ExoContext.cs`**: Configura o `DbContext` (`DbSet<Projeto>`, `DbSet<Usuario>`) e a string de conexão com a instância do SQL Server e o banco `ExoApi`.
+* **`Repositories/ProjetoRepository.cs`** e **`Repositories/UsuarioRepository.cs`**: Implementam o acesso a dados (`Listar`, `Cadastrar`, `BuscaPorId`, `Atualizar`, `Deletar` e `Login`).
+* **`Controllers/ProjetosController.cs`** e **`Controllers/UsuariosController.cs`**: Expõem os endpoints da API, incluindo login com geração de token JWT e rotas protegidas com `[Authorize]` para atualização (`PUT`) e remoção (`DELETE`) de usuários.
+* **`Program.cs`**: Configura serviços, Entity Framework Core, política de **CORS** (`CorsPolicy`), autenticação **JWT Bearer** e pipeline HTTP.
+* **`Exo.WebApi.csproj`**: Define o `TargetFramework` e os pacotes NuGet do projeto (incluindo `Microsoft.EntityFrameworkCore.SqlServer` e `Microsoft.AspNetCore.Authentication.JwtBearer`).
 
 ## Banco de Dados
 
